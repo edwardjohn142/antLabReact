@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.4bf457fd.chunk.js",
-    "main.js.map": "/static/js/main.4bf457fd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9868a494.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9868a494.js.map",
-    "static/css/2.05ffced1.chunk.css": "/static/css/2.05ffced1.chunk.css",
-    "static/js/2.cf79e3c8.chunk.js": "/static/js/2.cf79e3c8.chunk.js",
-    "static/js/2.cf79e3c8.chunk.js.map": "/static/js/2.cf79e3c8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3167b82148aa68c02b9b948db48560e1.js": "/precache-manifest.3167b82148aa68c02b9b948db48560e1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.05ffced1.chunk.css.map": "/static/css/2.05ffced1.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cf79e3c8.chunk.js.LICENSE.txt": "/static/js/2.cf79e3c8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/antLabReact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/antLabReact/static/js/main.3a9e2613.chunk.js",
+    "main.js.map": "/antLabReact/static/js/main.3a9e2613.chunk.js.map",
+    "runtime-main.js": "/antLabReact/static/js/runtime-main.d9ed1dd5.js",
+    "runtime-main.js.map": "/antLabReact/static/js/runtime-main.d9ed1dd5.js.map",
+    "static/css/2.05ffced1.chunk.css": "/antLabReact/static/css/2.05ffced1.chunk.css",
+    "static/js/2.e0f721d1.chunk.js": "/antLabReact/static/js/2.e0f721d1.chunk.js",
+    "static/js/2.e0f721d1.chunk.js.map": "/antLabReact/static/js/2.e0f721d1.chunk.js.map",
+    "index.html": "/antLabReact/index.html",
+    "precache-manifest.4104837d5d9af4e50364edaddbcf8019.js": "/antLabReact/precache-manifest.4104837d5d9af4e50364edaddbcf8019.js",
+    "service-worker.js": "/antLabReact/service-worker.js",
+    "static/css/2.05ffced1.chunk.css.map": "/antLabReact/static/css/2.05ffced1.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/antLabReact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e0f721d1.chunk.js.LICENSE.txt": "/antLabReact/static/js/2.e0f721d1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/antLabReact/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9868a494.js",
+    "static/js/runtime-main.d9ed1dd5.js",
     "static/css/2.05ffced1.chunk.css",
-    "static/js/2.cf79e3c8.chunk.js",
+    "static/js/2.e0f721d1.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4bf457fd.chunk.js"
+    "static/js/main.3a9e2613.chunk.js"
   ]
 }
