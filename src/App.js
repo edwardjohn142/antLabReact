@@ -10,13 +10,7 @@ class App extends Component {
   render(){
     return (
       <div className="App">
-        <Button type="primary">Button</Button>
-        <Button type="warning">warning</Button><WhiteSpace />
-        <Button type="warning" disabled>warning disabled</Button><WhiteSpace />
-  
-        <div>
           <Map></Map>
-        </div>
       </div>
     );
   }
